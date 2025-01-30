@@ -117,6 +117,8 @@ var
 
   Item: TListItem;
 begin
+  DriveListView.Items.Clear;
+
   DriveInfoList := GetDriveInfo;
 
   for DriveInfo in DriveInfoList do begin
