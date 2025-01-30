@@ -5,7 +5,9 @@ Simple WMI Example getting Drive Information
 
 ### Code is in the main form
 
-1. Record Structure to hold the info (**TDriveInfo**)
-2. One function to get the drive information (**GetDriveInfo**)
-3. Lastly, the Button Event Handler to call the function and populate the listview
+There's three things to consider:
+
+1. Record to hold the info (**TDriveInfo**)
+2. Function to get the drive information (**GetDriveInfo**)
+3. Button Event Handler to call the function and populate the listview
 
