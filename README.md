@@ -1,5 +1,7 @@
 # DriveInfo
- Simple WMI Example getting Drive Information
+Simple WMI Example getting Drive Information
+
+![image](https://github.com/user-attachments/assets/43cc62d0-4999-4ba7-8653-7c39d58d8918)
 
 ### Code is in main form:
 
